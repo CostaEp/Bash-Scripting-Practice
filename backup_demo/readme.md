@@ -12,11 +12,11 @@ This script automatically creates a compressed backup (`.tar.gz`) of a specified
 ## 🛠️ Usage
 1. **Make the script executable** (if not already):
    ```bash
-   chmod +x backup_demo.sh
+   chmod +x backup_demo_01.sh
 
 2.	Run the script manually:
    ```bash
-   ./backup_demo.sh
+   ./backup_demo_01.sh
    ```
 
 3.	Automate daily backups using cron:
