@@ -25,7 +25,7 @@ This directory contains scripts for generating secure passwords. These scripts s
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/bash-scripting-practice.git
+   git clone https://github.com/CostaEp/bash-scripting-practice.git
    ```
 2. Navigate to a specific folder:
    ```bash
