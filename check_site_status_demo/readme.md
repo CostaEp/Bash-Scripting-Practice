@@ -23,7 +23,7 @@ No installation is required. Just download or copy the script and run it in a te
 1. Open a terminal.
 2. Run the script using:
    ```bash
-   ./check_site_status_demo.sh
+   ./check_site_status_demo_01.sh
    ```
 
 ### Checking Multiple Websites
