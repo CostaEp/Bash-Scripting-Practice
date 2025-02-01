@@ -13,12 +13,12 @@ This script generates **random passwords** with a length of **12 characters** us
 ## 🛠️ Usage
 1. **Make the script executable** (if not already):
    ```bash
-   chmod +x pass_gen_demo.sh
+   chmod +x pass_gen_demo_01.sh
    ```
 
 2.	Run the script:
    ```bash
-   ./pass_gen_demo.sh
+   ./pass_gen_demo_01.sh
    ```
 📝 Code Explanation
 	•	Uses a loop (for i in {1..5}) to generate multiple passwords.
