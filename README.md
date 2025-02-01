@@ -46,5 +46,7 @@ This repository is primarily for personal learning, but if you have suggestions 
 ## License
 This project is open-source and available under the MIT License.
 
+## Author
+[Costa Epshtein]
 ---
 Happy scripting! 🚀
